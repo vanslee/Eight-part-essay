@@ -1,0 +1,7 @@
+{
+    "editor.fontFamily": "Consolas, 'Courier New', monospace",
+    "editor.fontSize": 14,
+    "editor.fontWeight": "600",
+    "editor.autoSave": "onFocusChange",
+    "java.debug.settings.onBuildFailureProceed": true
+}
