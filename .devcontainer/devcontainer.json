@@ -21,7 +21,8 @@
 				"redhat.java",
 				"Mostik.JetBrainsIcons",
 				"AlexTi.intellij-idea-light-theme",
-				"ms-azuretools.vscode-docker"
+				"ms-azuretools.vscode-docker",
+				"MS-CEINTL.vscode-language-pack-zh-hans"
 			]
 		}
 	}
