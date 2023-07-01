@@ -1,7 +1,7 @@
 {
-    "editor.fontFamily": "Consolas, 'Courier New', monospace",
+    "editor.fontFamily": "Fira Code",
     "editor.fontSize": 14,
-    "editor.fontWeight": "600",
+    "editor.fontWeight": "200",
     "editor.autoSave": "onFocusChange",
     "java.debug.settings.onBuildFailureProceed": true
 }
